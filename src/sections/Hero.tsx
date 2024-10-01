@@ -5,7 +5,7 @@ import cogImage from '@/assets/cog.png'
 import Image from 'next/image';
 import cylinderImage from '@/assets/cylinder.png'
 import noodleImage from '@/assets/noodle.png'
-import { motion, useScroll, useTransform, useMotionValueEvent } from 'framer-motion' 
+import { motion, useScroll, useTransform } from 'framer-motion' 
 import { useRef } from 'react';
 
 export const Hero = () => {
