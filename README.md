@@ -4,7 +4,7 @@ Highlighting use of nextjs, tailwind/twmerge and framer motion
 
 ## Demo
 
-![](frontend-tribe-light-saas-landing-page-resource-bundle-ezgif.com-crop.gif)
+![](frontend-frame-motion.gif)
 
 Clone repository, Install dependecies, Launch
 
