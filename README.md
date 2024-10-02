@@ -9,7 +9,7 @@ Highlighting use of nextjs, tailwind/twmerge and framer motion
 Clone repository, Install dependecies, Launch
 
 ```bash
-  > git clone https://github.com/9bn1dyp/frontend-frame-motion.git
+  > git clone https://github.com/9bn1dyp/frontend-framer-motion.git
   > npm install
   > npm run dev
 ```
